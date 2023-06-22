@@ -15,5 +15,11 @@ Meu repositório com anotações pessoais de estudo e de cursos.
 
 - Python (DIR)
   - images (DIR): python-ico.png, examplecode001.png, bookcover001.png.
-  - notebooks (DIR)
+  - notebooks (DIR): PYTHON_fromdocs.md PYTHON_CursoAlgumaCoisa.md PYTHON_Exercios.md
   - overview.md
+
+
+
+## Como abrir
+
+É necessário somente um editor markdown, basta abrir o arquivo ".md".
