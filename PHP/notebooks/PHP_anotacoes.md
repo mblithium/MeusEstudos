@@ -79,3 +79,11 @@ $num = (int) "950"
 $num = (float) "950";
 var_dump($num);
 ```
+
+### Strings
+
+Como funciona a concatenação:
+
+```php
+echo "Este é um texto de teste " . "e esta é a segunda parte dele."
+```

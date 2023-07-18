@@ -20,3 +20,9 @@
 - MariaDB
 
 **Query:** Uma "query" é um pedido, consulta, solicitação ou requisição ao banco de dados.
+
+**Vários tipos:** Espacial, Não-relacional, relacional, grafo, xml, etc.
+
+## Notebooks
+
+- [SQL Khanacademy](./notebooks/SQL_Khanacademy.md): Aulas interativas de SQL no Khan Academy
