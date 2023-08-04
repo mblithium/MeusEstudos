@@ -4,8 +4,6 @@
 
 São uma organização de dados para serem processados, normalmente salvos em um arquivo de banco de dados, que é lido e manipulado por um SGDB (Data Base Management System).
 
-
-
 # Diferença de Dados e Informação
 
 Os **dados** são fatos que podem ser armazenados em algum lugar para acesso posterior, não há nenhuma utilização prática aqui, são dados puros e sem um contexto definido.
@@ -22,13 +20,9 @@ Já **Informação** são os dados processados e organizados para um determinado
 
 - Clientes que fazem aniversário no mês atual.
 
-
-
 # Metadados
 
 Dados sobre outros dados, que são dados para facilitar a identificação de dados no banco de dados. Mantidos nos chamados "Dicionário de Dados" ou "Catálogo de Dados".
-
-
 
 # Modelos
 
@@ -48,8 +42,6 @@ Um Modelo é uma representação que ajuda a organizar os conceitos que serão a
 
 - Não-Relacional
 
-
-
 ## Modelo Entidade-Relacionamento
 
 O Modelo Entidade-Relacionamento (MER) cria uma ilustração das entidades e os relacionamentos entre elas.
@@ -59,8 +51,6 @@ O Modelo Entidade-Relacionamento (MER) cria uma ilustração das entidades e os 
 - **Atributo**: Algo que descreve ou qualifica uma entidade. Podem ser obrigatórios ou opcionais. Exemplo: Entidade Cliente possui atributos que descrevem seu nome, endereço, telefone, número de identificação, entre outros.
 
 - **Relacionamento**: Trata-se de uma associação nomeada entre entidades, com um grau de associação. Por exemplo, clientes podem estar associados a pedidos.
-
-
 
 ## Convenções
 
@@ -72,10 +62,34 @@ O Modelo Entidade-Relacionamento (MER) cria uma ilustração das entidades e os 
 
 **Cardinalidade**: significa que cada entidade pode ser ou deve em relação de forma uma e apenas uma ou uma ou mais com outra entidade.
 
-
-
-
-
 ## Identificador único (UID)
 
 Um identificador único é qualquer combinação de atributos ou relacionamentos que são usados para distinguir ocorrências de uma entidade. Cada ocorrência de entidade de ser identificável de forma exclusiva.
+
+# Modelagem de Dados
+
+## Níveis
+
+- Modelo Conceitual (Alto nível) - MCD
+
+- Modelo Lógico - MLD
+
+- Modelo Físico (baixo nível) - MFD
+
+## MCD
+
+Primeira fase de modelagem, onde representamos o mundo real por meio de uma visão simplificada dos dados e seus relacionamentos. Assim podemos determinar quais informações serão armazenadas no BD. Neste nível o projeto é independente de SGBD.
+
+**Exemplo**: 
+
+**Cadastro de produtos em uma loja:**
+
+Dados necessários: Nome do produto, categoria de produto (limpeza, alimentos, etc), código do fornecedor, tipo de embalagem, tamanho, quantidade.
+
+
+
+Os detalhes da implementação não aparecem, porém é o suficientemente detalhado para o ponto de ser possível descrever os tipos de dados requeridos, seus relacionamentos entre si e regras de consistência.
+
+
+
+## MLD
