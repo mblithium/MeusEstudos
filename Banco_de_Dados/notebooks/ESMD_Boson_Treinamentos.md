@@ -76,7 +76,9 @@ Um identificador único é qualquer combinação de atributos ou relacionamentos
 
 - Modelo Físico (baixo nível) - MFD
 
-## MCD
+## MCD/MLD
+
+Modelo Conceitual de Dados / Modelo Lógico de Dados
 
 Primeira fase de modelagem, onde representamos o mundo real por meio de uma visão simplificada dos dados e seus relacionamentos. Assim podemos determinar quais informações serão armazenadas no BD. Neste nível o projeto é independente de SGBD.
 
@@ -86,10 +88,26 @@ Primeira fase de modelagem, onde representamos o mundo real por meio de uma vis�
 
 Dados necessários: Nome do produto, categoria de produto (limpeza, alimentos, etc), código do fornecedor, tipo de embalagem, tamanho, quantidade.
 
-
-
 Os detalhes da implementação não aparecem, porém é o suficientemente detalhado para o ponto de ser possível descrever os tipos de dados requeridos, seus relacionamentos entre si e regras de consistência.
 
 
+# MER
 
-## MLD
+Modelo Entidade-Relacionamento.
+
+É um tipo de modelo conceitual que permite representar de forma abstrata a estrutura do banco de dados. É composto por Entidades, Atributos e Relacionamentos.
+
+O MER é uma maneira sistemática de descrever e definir um processo de negócio. 
+
+O processo é modelado como componentes (entidades) que são ligadas umas às outras por relacionamentos que indicam as dependências entre elas. 
+
+As entidades podem ter várias propriedades (atributos) que as caracterizam.
+
+Diagramas são criados para representar graficamente entidades, atributos e relacionamentos, denominados Diagramas Entidade-Relacionamento (DER).
+
+## Componentes do DER
+
+- Retângulos - Representam entidades.
+- Elipses - Representam atributos.
+- Losangos - Representam relacionamentos.
+- Linhas - Ligam atributos a entidades e entidades a relacionamentos.

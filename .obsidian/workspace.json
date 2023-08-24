@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "0a2c7984a3fae75c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc2999f421e2d3b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "090dd2438bb42506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banco_de_Dados/notebooks/ESMD_Boson_Treinamentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5969b98b91328460",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb53b361c47cd0f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d707af9af19e2b32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd41a647e1072bc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd06931ec63d7371",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5e0a5e3d1d773bc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3c368d374641b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55de72f920deec34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Banco_de_Dados/notebooks/ESMD_Boson_Treinamentos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d4182c295831253",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Banco_de_Dados/notebooks/ESMD_Boson_Treinamentos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1e72d1cccbc90a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "7c1d24ffbd20e13c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Banco_de_Dados/notebooks/ESMD_Boson_Treinamentos.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "090dd2438bb42506",
+  "lastOpenFiles": [
+    "C/notebooks/c-freecodecamp.md.md",
+    "C/Lab/FreeCodeCamp/output/teste.txt",
+    "C/Lab/FreeCodeCamp/output/reading_files",
+    "C/Lab/FreeCodeCamp/reading_files.c",
+    "C/Lab/FreeCodeCamp/output/teste.text",
+    "C/Lab/FreeCodeCamp/output/writing_files",
+    "C/Lab/FreeCodeCamp/writing_files.c",
+    "C/Lab/FreeCodeCamp/writing_files.cs",
+    "C/Lab/FreeCodeCamp/output/dereferencing_pointers",
+    "C/Lab/FreeCodeCamp/dereferencing_pointers.c",
+    "C/Lab/FreeCodeCamp/derefencing_pointers.c",
+    "Tec_de_estudo.md",
+    "PHP/notebooks/PHP_anotacoes.md",
+    "C/overview-c-lang.md",
+    "README.md",
+    "Home.md",
+    "Javascript/overview-javascript.md",
+    "Banco_de_Dados/notebooks/ESMD_FAM.md",
+    "Banco_de_Dados/notebooks/ESMD_Boson_Treinamentos.md",
+    "Banco_de_Dados/overview-banco-de-dados.md",
+    "2023-08-21.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "PHP/notebooks/PHP_cursoemvideo.md",
+    "Wordpress/overview-wordpress.md",
+    "2023-08-11.md"
+  ]
+}

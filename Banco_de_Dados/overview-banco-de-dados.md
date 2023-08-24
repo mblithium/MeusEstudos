@@ -26,3 +26,4 @@
 ## Notebooks
 
 - [SQL Khanacademy](./notebooks/SQL_Khanacademy.md): Aulas interativas de SQL no Khan Academy
+- [ESMD Boson Treinamentos](./notebooks/ESMD_Boson_Treinamentos.md): Curso de modelagem de banco de dados gratuito da Boson Treinamentos.

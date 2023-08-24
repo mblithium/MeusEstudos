@@ -364,7 +364,7 @@ PHP é uma linguagem fracamente tipada.
 
 - **<u>Escalares</u>**:
   
-  - **String:** Sequências de letras, números e símbolos, sempre representadas entre aspas. Exemplos: "Olá", "1558", "Teste #a"
+  - **String:** Sequências de letras, números e símbolos, sempre representadas entre aspas. Exemplos: "Olá", "1558", "Teste"
   
   - **Int** ou **Integer**: Um valor numérico inteiro, aquele que vem sem a parte decimal. **Exemplos**: 85, 90, 25, -19
   
