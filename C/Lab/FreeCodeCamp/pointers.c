@@ -10,6 +10,10 @@ int main() {
     char * pGrade = &grade;
 
     /* & aponta para o endereço físico da memória. */
-    printf("Age's memory address: %p\n", &age);
+    /* printf("Age's memory address: %p\n", &age); */
+
+    printf("Conteúdo = %d\n", age);
+    printf("Endereço = %p\n", &pAge);
+    printf("Conteúdo apontado = %p\n", *pAge);
     return 0;
 }

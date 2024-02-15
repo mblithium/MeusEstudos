@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' /home/mb/Documentos/MeusEstudos/Cursos/Ciencia_da_Computacao_UBL/1_Introducao_a_computacao/1_Int_CC_com_python/lab/whiletrue/env/bin/python3 "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from pip._internal.cli.main import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())

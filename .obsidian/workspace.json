@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc2999f421e2d3b0",
+        "id": "c044d7450208d678",
         "type": "tabs",
         "children": [
           {
-            "id": "090dd2438bb42506",
+            "id": "d80f20766efde1d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 402.5,
     "collapsed": true
   },
   "right": {
@@ -129,13 +129,24 @@
                 "file": "Banco_de_Dados/notebooks/ESMD_Boson_Treinamentos.md"
               }
             }
+          },
+          {
+            "id": "ffa700603190972a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +158,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "090dd2438bb42506",
+  "active": "d80f20766efde1d5",
   "lastOpenFiles": [
+    "Banco_de_Dados/images/bd-boson-valores-null.png",
+    "Banco_de_Dados/images/Screenshot_20230828_184854.png",
+    "().md",
+    "Banco_de_Dados/notebooks/ESMD_Boson_Treinamentos.md",
+    "Banco_de_Dados/images/bd-boson-cardinalidade010.png",
+    "Banco_de_Dados/images/bd-boson-cardinalidade011.png",
+    "Banco_de_Dados/images/bd-boson-relacao003.png",
+    "Banco_de_Dados/images/bd-boson-cardinalidade009.png",
+    "Banco_de_Dados/images/bd-boson-cardinalidade008.png",
+    "img/bd-boson-entidade001.png.md",
+    "Banco_de_Dados/images/bd-boson-cardinalidade007.png",
+    "Banco_de_Dados/images/bd-boson-cardinalidade006.png",
+    "Banco_de_Dados/images/bd-boson-cardinalidade005.png",
+    "Banco_de_Dados/images/bd-boson-cardinalidade004.png",
+    "Banco_de_Dados/notebooks/ESMD_FAM.md",
+    "img",
     "C/notebooks/c-freecodecamp.md.md",
     "C/Lab/FreeCodeCamp/output/teste.txt",
     "C/Lab/FreeCodeCamp/output/reading_files",
@@ -159,15 +186,12 @@
     "C/Lab/FreeCodeCamp/writing_files.cs",
     "C/Lab/FreeCodeCamp/output/dereferencing_pointers",
     "C/Lab/FreeCodeCamp/dereferencing_pointers.c",
-    "C/Lab/FreeCodeCamp/derefencing_pointers.c",
     "Tec_de_estudo.md",
     "PHP/notebooks/PHP_anotacoes.md",
     "C/overview-c-lang.md",
     "README.md",
     "Home.md",
     "Javascript/overview-javascript.md",
-    "Banco_de_Dados/notebooks/ESMD_FAM.md",
-    "Banco_de_Dados/notebooks/ESMD_Boson_Treinamentos.md",
     "Banco_de_Dados/overview-banco-de-dados.md",
     "2023-08-21.md",
     "Untitled 1.canvas",
